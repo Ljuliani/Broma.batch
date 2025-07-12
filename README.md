@@ -12,8 +12,10 @@ En sí, contiene una situación dramatica muy graciosa.
 
 📄 ¿Cómo se crea?
 - Se escribe en un editor de texto como el Bloc de notas.
+- Se cambia el método de codificación a "ANSI"
 - Se guarda con la extensión .bat en lugar de .txt.
 - Al ejecutarlo, Windows interpreta cada línea como un comando.
+  
 Ej:
 @echo off
 echo Hola, Mundo
